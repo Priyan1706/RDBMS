@@ -1,2 +1,0 @@
-# RDBMS
-Relational Database Certification
